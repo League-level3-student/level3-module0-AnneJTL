@@ -6,6 +6,7 @@ import java.util.Random;
 public class MoreArrayFun {
 	//1. Create a main method to test the other methods you write.
     public static void main(String[] args) {
+        String[] strings = {"test", "autre"};
         String[] allString;
         allString = new String[]{"abc", "def", "ghi", "jkl"};
         System.out.println("A l'endroit");
