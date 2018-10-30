@@ -1,11 +1,13 @@
 package _01_Simple_Array_Algorithms;
-/*
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-*/
+
+
+
 public class _00_1D_Array_Test {
-/*
+
 	@Test
 	public void testSum() {
 		int[] arr = {0, 1, 2, 3, 4};
@@ -51,5 +53,5 @@ public class _00_1D_Array_Test {
 		int[] arr3 = {0, 0, 0};
 		assertEquals(-1, _00_1D_Array_Methods.getIndex(arr3, 1));
 	}
-*/
+
 }

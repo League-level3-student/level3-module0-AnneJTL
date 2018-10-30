@@ -24,4 +24,9 @@ public class Spark {
 		yVelocity = -30;
 		xVelocity = 0;
 	}
+
+	public void setOriginLocation(int x, int y){
+		this.x = x;
+		this.y = y;
+	}
 }
